@@ -15,7 +15,7 @@
 
 ### Screenshots of the project
 
-#### Login and Home Page
+#### Adding expenses
 ![](./lib/ss1.jpeg)
 
 #### Application
